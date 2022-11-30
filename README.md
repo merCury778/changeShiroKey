@@ -6,7 +6,7 @@
 * Jdk1.8版本双击<br>
 * 填写URL、Key、Gadget等<br>
 * 支持Tomcat、Spring版本<br>
-* 修改成功后会在/工具目录/result/newKey.txt中保存修改记录，防止修改后新Key忘记。<br>
+* 修改成功后会在/工具目录/result/newKey.txt中保存修改记录，防止修改后忘记新Key。<br>
 ![image](https://user-images.githubusercontent.com/51441052/204734862-173308bc-3f91-43f9-846b-469905e33868.png)
 
 ## 工具用途
